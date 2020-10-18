@@ -1,2 +1,2 @@
-# Password-Generator
-Password generator using RANDOM library
+# Password-Generator:-
+Password generator using RANDOM library.
